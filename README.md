@@ -71,7 +71,8 @@ Execute the programs and publish them.
 </body>
 </html>
 ```
-#College.html
+
+# College.html
 
 ```
 <!DOCTYPE html>
@@ -159,6 +160,8 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
+
+![alt text](<Screenshot (269).png>)
 
 ![alt text](<Screenshot (267)-1.png>)
 
